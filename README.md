@@ -17,3 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+## Links de referencia
+https://docs.flutter.dev/cookbook/navigation/navigation-basics
+## imagenes
+![image](https://github.com/jimebau/p12-pantallas/assets/143548070/60346ab0-b9e9-49dc-819e-db7af91256e4)
+![image](https://github.com/jimebau/p12-pantallas/assets/143548070/c4e4d6a9-6096-4158-b6de-34a945daaf19)
